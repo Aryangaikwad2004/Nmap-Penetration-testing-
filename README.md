@@ -26,6 +26,29 @@ command is 'msf6 > search ms01-90' and thus we get the matching modules of this 
 -O: OS detection.
 
 
+--------------ARP ping scan---------------
+*nmap -sn -PR[Target ip address]*
+
+
+--------------UDP scan----------------
+A UDP response means that the host is active. If the target host is offline or unreachable, various error messages such as “host/network unreachable” or “TTL exceeded” could be returned
+
+COMMAND:-> nmap -sn -PU [Target ip address]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
