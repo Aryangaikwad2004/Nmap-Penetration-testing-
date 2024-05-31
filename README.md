@@ -24,7 +24,8 @@ command is 'msf6 > search ms01-90' and thus we get the matching modules of this 
 -A: Enables aggressive scan. The aggressive scan option supports OS detection (-O), version scanning (-sV), script scanning (-sC), and traceroute (--traceroute). You should not use -A against target networks without permission.
 -p: Specifies the port to be scanned.
 -O: OS detection.
-
+-A: Aggresive detection 
+-v: Verbosity detection  
 
 
 
