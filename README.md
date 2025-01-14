@@ -27,9 +27,10 @@ command is 'msf6 > search ms01-90' and thus we get the matching modules of this 
 -A: Aggresive detection 
 -v: Verbosity detection  
 
+We should download OWASP terminal on oracle box with the help of that we can get different different IP ADDR to practice the nmap tool with the help of OWASP we scan or ping the given addr and find vulnerbilites from the system  
 
-
-
+here is the image u will get it 
+![image](https://github.com/user-attachments/assets/ee5e5d17-474c-4cf2-b645-7ecd3f5e29d6)
 
 
 
